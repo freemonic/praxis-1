@@ -13,4 +13,4 @@ def mul(a, b):
 if __name__ == '__main__':
     print(plus(2, 2))
     print(minus(4, 2))
-    print(mul(4, 3))
+    print(mul(5, 3))
